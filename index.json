@@ -1,0 +1,11 @@
+{
+    "collectionID": "utility-names-fantasy",
+    "collectionName": "Utility Names Fantasy",
+    "category": "Utility",
+    "isUtility": true,
+    "version": 1,
+    "tags": ["names"],
+    "tables": {
+        "anglo-saxon": ["male", "female", "surname"]
+    }
+}
