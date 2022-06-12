@@ -432,8 +432,14 @@
   },
   "surname-gen": {
     "table": [
-      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}",
-      "{{utility-names/english/surname-start:john}}{{utility-names/english/surname-end:son}}{{utility-names/english/surname-end:son}}"
+      "{{utility-names-historic/english/surname-start:john}}{{utility-names-historic/english/surname-end:worth}}"
+    ]
+  },
+  "surname-mix": {
+    "table": [
+      "{{utility-names/english/surname-gen:westshire}}",
+      "{{utility-names/english/surname:whitaker}}",
+      "{{utility-names/english/surname:whitaker}}-{{utility-names/english/surname-gen:kersey}}"
     ]
   }
 }
