@@ -5,7 +5,7 @@ const calls = require("./calls.json");
 module.exports = {
   ...index,
   tableData: {
-    angloSaxon,
+    "anglo-saxon": angloSaxon,
   },
   calls,
 };
